@@ -26,21 +26,21 @@ A love of programming, cheerful character coder, like toss, love to write code, 
 
 > **GitHub stats**
 
-![OdinSam's GitHub stats](https://github-readme-stats.vercel.app/api?username=odinsam&count_private=true&theme=default)
+![OdinSam's GitHub stats](http://grs.odinsam.com/api?username=odinsam&count_private=true&theme=default)
 
 <br /><br />
 
 > **My Repo**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=odinsam&repo=OdinMA" />
+  <img align="center" src="https://grs.odinsam.com/api/pin/?username=odinsam&repo=OdinMA" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=odinsam&repo=odinplugs" />
+  <img align="center" src="https://grs.odinsam.com/api/pin/?username=odinsam&repo=odinplugs" />
 </a>
 
 <br /><br />
 
 > **My language**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odinsam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://grs.odinsam.com/api/top-langs/?username=odinsam&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <!--&layout=compact-->
