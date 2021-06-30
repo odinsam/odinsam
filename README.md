@@ -32,11 +32,17 @@ A love of programming, cheerful character coder, like toss, love to write code, 
 
 > **My Repo**
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/odinsam/OdinMA">
   <img align="center" src="https://grs.odinsam.com/api/pin/?username=odinsam&repo=OdinMA" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/odinsam/odinplugs">
   <img align="center" src="https://grs.odinsam.com/api/pin/?username=odinsam&repo=odinplugs" />
+</a>
+<a href="https://github.com/odinsam/AutoCreateChangelog">
+  <img align="center" src="https://grs.odinsam.com/api/pin/?username=odinsam&repo=AutoCreateChangelog" />
+</a>
+<a href="https://github.com/odinsam/OdinTemplate">
+  <img align="center" src="https://grs.odinsam.com/api/pin/?username=odinsam&repo=OdinTemplate" />
 </a>
 
 <br /><br />
