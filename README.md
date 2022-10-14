@@ -26,7 +26,7 @@ A love of programming, cheerful character coder, like toss, love to write code, 
 
 > **GitHub stats**
 
-![OdinSam's GitHub stats](http://grs.odinsam.com/api?username=odinsam&count_private=true&theme=default)
+![OdinSam's GitHub stats](https://github-readme-stats.vercel.app/api?username=odinsam&show_icons=true&theme=radical)
 
 <br /><br />
 
