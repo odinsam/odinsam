@@ -27,6 +27,8 @@ A love of programming, cheerful character coder, like toss, love to write code, 
 
 > **My Repo**
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Odinsam&repo=github-readme-stats)](https://github.com/Odinsam/github-readme-stats)
+
 <a href="https://github.com/odinsam/OdinMA">
   <img align="center" src="https://grs.odinsam.com/api/pin/?username=odinsam&repo=OdinMA" />
 </a>
