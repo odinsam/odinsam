@@ -20,7 +20,7 @@
 <br />
 
 > **GitHub stats**
-[![Odinsam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Odinsam&count_private=true&show_icons=true&theme=graywhite)](https://github.com/Odinsam/github-readme-stats)
+[(https://github-readme-stats.vercel.app/api?username=Odinsam&count_private=true&show_icons=true&theme=graywhite)](https://github.com/Odinsam/github-readme-stats)
 <br />
 <br />
 A love of programming, cheerful character coder, like toss, love to write code, and it as a kind of life fun, a standard technology. I also like watching old movies, old TV series and energetic old coder.
