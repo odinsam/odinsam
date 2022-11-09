@@ -49,5 +49,5 @@ A love of programming, cheerful character coder, like toss, love to write code, 
 <br /><br />
 
 > **My language**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odinsam&langs_count=8)](https://github.com/odinsam/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odinsam&layout=compact)](https://github.com/odinsam/github-readme-stats) <!--&layout=compact-->
