@@ -50,4 +50,4 @@ A love of programming, cheerful character coder, like toss, love to write code, 
 
 > **My language**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odinsam&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <!--&layout=compact-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odinsam&layout=compact)](https://github.com/odinsam/github-readme-stats) <!--&layout=compact-->
